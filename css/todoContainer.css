@@ -31,3 +31,16 @@
 .complete-btn{
     background: rgb(14, 245, 14);
 }
+.todo-item {
+    padding: 0rem 0.5rem;
+}
+
+.fa-trash,
+.fa-check {
+    pointer-events: none;
+}
+
+.completed {
+    text-decoration: line-through;
+    opacity: 0.5;
+}
