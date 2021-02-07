@@ -9,7 +9,7 @@
 
 
 
-Site published at hhttps://urbbiz.github.io/toDoList/.
+Site published at https://urbbiz.github.io/toDoList/.
 
 Design: Andrius Urbonas (urbbiz) FLAISMAK
 
