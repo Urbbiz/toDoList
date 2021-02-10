@@ -4,14 +4,15 @@
     box-sizing: border-box;
 }
 
-body{
+body {
     background-image: linear-gradient(120deg, #7bdf62, #19cfe7);
     color: white;
     font-family: "Poppins", sans-serif;
     min-height: 100vh;
 }
+
 header {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 
 header,
@@ -20,20 +21,23 @@ form {
     display: flex;
     justify-content: center;
     align-items: center;
-} 
+}
+
 form input,
 form button {
     padding: 0.5rem;
-    font-size: 2rem;
+    font-size: 1.5rem;
     border: none;
     background: white;
 }
+
 form button {
-    color:#19cfe7;
+    color: #19cfe7;
     background: white;
     cursor: pointer;
     transition: all 0.3s ease;
 }
+
 form button:hover {
     color: white;
     background: #19cfe7;
