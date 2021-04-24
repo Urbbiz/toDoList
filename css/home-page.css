@@ -1,8 +1,13 @@
 /* 3rd party components*/
+
 @import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css';
+
 /* google fonts*/
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 /* your components*/
+
 @import './style.css';
+@import'./layout.css';
 @import'./todoContainer.css';
