@@ -4,6 +4,16 @@
     align-items: center;
 }
 
+.container h1 {
+    text-align: center;
+}
+
+.container ul {
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+}
+
 .todo-list {
     display: inline-block;
     min-width: 10%;
